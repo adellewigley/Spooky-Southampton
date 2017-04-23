@@ -124,7 +124,7 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: white;
-  background-image: url('static/img/hauntedhouse.jpg') no-repeat bottom center scroll;
+  background: url('https://res.cloudinary.com/d5iwsgbtko/image/upload/v1492523443/hauntedhouse_pkijb8.jpg') no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -220,17 +220,40 @@ a:focus {
 .content-section {
   padding-top: 100px;
 }
-.download-section {
+.tudorimg {
   width: 100%;
   padding: 50px 0;
   color: white;
-  background: url('static/img/downloads-bg.jpg') no-repeat center center scroll;
+  background: url('https://res.cloudinary.com/d5iwsgbtko/image/upload/c_crop/v1492973008/tudor_house.jpg.gallery_eooqbl.jpg') no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
 }
+.stationimg {
+  width: 100%;
+  padding: 50px 0;
+  color: white;
+  background: url('https://res.cloudinary.com/d5iwsgbtko/image/upload/c_crop/v1492973008/tudor_house.jpg.gallery_eooqbl.jpg') no-repeat center center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.spookformationimg {
+  width: 100%;
+  padding: 50px 0;
+  color: white;
+  background-color: grey;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
 #map {
   height: 500px;
   width: 97%;
