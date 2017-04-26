@@ -220,7 +220,7 @@ a:focus {
 .content-section {
   padding-top: 100px;
 }
-.tudorimg {
+.redlionimg {
   width: 100%;
   padding: 50px 0;
   color: white;
@@ -231,7 +231,7 @@ a:focus {
   background-size: cover;
   -o-background-size: cover;
 }
-.stationimg {
+.tudorimg {
   width: 100%;
   padding: 50px 0;
   color: white;
@@ -243,15 +243,11 @@ a:focus {
   -o-background-size: cover;
 }
 
-.spookformationimg {
+.spookformationcss {
   width: 100%;
-  padding: 50px 0;
+  padding: 25px 0;
   color: white;
   background-color: black;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
 }
 
 #map {
