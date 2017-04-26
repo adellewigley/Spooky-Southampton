@@ -121,7 +121,7 @@ a:focus {
   display: table;
   width: 100%;
   height: auto;
-  padding: 100px 0;
+  padding: 50px 0;
   text-align: center;
   color: white;
   background: url('https://res.cloudinary.com/d5iwsgbtko/image/upload/v1492523443/hauntedhouse_pkijb8.jpg') no-repeat bottom center scroll;
@@ -233,7 +233,7 @@ a:focus {
 }
 .tudorimg {
   width: 100%;
-  padding: 50px 0;
+  padding: 100px 0;
   color: white;
   background: url('https://res.cloudinary.com/d5iwsgbtko/image/upload/c_crop/v1492973008/tudor_house.jpg.gallery_eooqbl.jpg') no-repeat center center scroll;
   background-color: black;
