@@ -2,7 +2,7 @@
 
 This project was created as a competition entry for a Code First Firls Advance Python Community Course.
 
-The motivation behind this project was to create a basic website where I could implement the skills learnt on the course: *python, flask, css, html and javascript,* as well as implement a simple web map based on *leaflet.*
+The motivation behind this project was to create a basic website where I could implement the skills learnt on the course: *Python, Flask, CSS, HTML and Javascript,* as well as implement a simple web map based on *Leaflet.*
 
 The website template is built upon the one page Bootstrap *Greyscale theme.*
 
