@@ -245,7 +245,7 @@ a:focus {
 
 .spookformationcss {
   width: 100%;
-  padding: 25px 0;
+  padding:100px 0;
   color: white;
   background-color: black;
 }
@@ -255,6 +255,12 @@ a:focus {
   width: 97%;
   margin-right: auto;
   margin-left: auto;
+}
+
+mark {
+  color: white;
+  background-color: black;
+  opacity:0.5;
 }
 
 @media (min-width: 767px) {
