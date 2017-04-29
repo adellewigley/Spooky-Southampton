@@ -222,7 +222,7 @@ a:focus {
 }
 .redlionimg {
   width: 100%;
-  padding: 100px 0;
+  padding: 100px 0px;
   color: white;
   background: url('http://res.cloudinary.com/d5iwsgbtko/image/upload/e_grayscale/v1493147593/Red_Lion_Inn_Southampton_sex4iq.jpg') no-repeat center center scroll;
   background-color: black;
@@ -233,7 +233,7 @@ a:focus {
 }
 .tudorimg {
   width: 100%;
-  padding: 100px 0;
+  padding: 100px 0px;
   color: white;
   background: url('https://res.cloudinary.com/d5iwsgbtko/image/upload/c_crop/v1492973008/tudor_house.jpg.gallery_eooqbl.jpg') no-repeat center center scroll;
   background-color: black;
@@ -242,26 +242,22 @@ a:focus {
   background-size: cover;
   -o-background-size: cover;
 }
-
 #map {
   height: 500px;
   width: 97%;
   margin-right: auto;
   margin-left: auto;
 }
-
 mark {
   color: black;
   background-color: white;
-  opacity:0.75;
+  opacity:0.25;
 }
-
 @media (min-width: 767px) {
   .content-section {
     padding: 100px;
   }
 }
-
 .btn {
   text-transform: uppercase;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
