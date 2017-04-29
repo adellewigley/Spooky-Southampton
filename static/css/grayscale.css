@@ -260,7 +260,7 @@ a:focus {
 mark {
   color: black;
   background-color: white;
-  opacity:0.5;
+  opacity:0.25;
 }
 
 @media (min-width: 767px) {
