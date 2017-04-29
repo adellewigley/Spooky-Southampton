@@ -222,7 +222,7 @@ a:focus {
 }
 .redlionimg {
   width: 100%;
-  padding: 50px 0;
+  padding: 100px 0;
   color: white;
   background: url('http://res.cloudinary.com/d5iwsgbtko/image/upload/e_grayscale/v1493147593/Red_Lion_Inn_Southampton_sex4iq.jpg') no-repeat center center scroll;
   background-color: black;
@@ -243,13 +243,6 @@ a:focus {
   -o-background-size: cover;
 }
 
-.spookformationcss {
-  width: 100%;
-  padding:100px 0;
-  color: white;
-  background-color: black;
-}
-
 #map {
   height: 500px;
   width: 97%;
@@ -260,18 +253,18 @@ a:focus {
 mark {
   color: black;
   background-color: white;
-  opacity:0.25;
+  opacity:0.75;
 }
 
 @media (min-width: 767px) {
+  .about-section {
+    padding: 100px;
+  }
   .content-section {
-    padding-top: 250px;
+    padding-top: 100px;
   }
-  .download-section {
-    padding: 100px 0;
-  }
-
 }
+
 .btn {
   text-transform: uppercase;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
