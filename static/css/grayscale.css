@@ -218,7 +218,7 @@ a:focus {
   }
 }
 .content-section {
-  padding-top: 100px;
+  padding: 100px;
 }
 .redlionimg {
   width: 100%;
@@ -257,11 +257,8 @@ mark {
 }
 
 @media (min-width: 767px) {
-  .about-section {
-    padding: 100px;
-  }
   .content-section {
-    padding-top: 100px;
+    padding: 100px;
   }
 }
 
