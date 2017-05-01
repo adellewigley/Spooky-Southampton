@@ -218,7 +218,10 @@ a:focus {
   }
 }
 .content-section {
-  padding: 100px;
+  padding: 50px;
+}
+.about-section {
+  padding: 50px;
 }
 .redlionimg {
   width: 100%;
@@ -251,7 +254,7 @@ a:focus {
 mark {
   color: black;
   background-color: white;
-  opacity:0.25;
+  opacity:0.75;
 }
 @media (min-width: 767px) {
   .content-section {
