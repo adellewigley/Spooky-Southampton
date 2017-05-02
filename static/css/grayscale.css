@@ -245,6 +245,9 @@ a:focus {
   background-size: cover;
   -o-background-size: cover;
 }
+.leaflet-container {
+  padding:0px;
+}
 #map {
   height: 700px;
   width: 97%;
